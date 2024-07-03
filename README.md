@@ -24,9 +24,9 @@ After cloning the github, you will want to do the following to get the code runn
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
-3. Connect your MetaMask wallet.
+6. Connect your MetaMask wallet.
 
-4. Interact with the ATM by depositing and withdrawing Ether, checking your balance, and transferring ownership.
+7. Interact with the ATM by depositing and withdrawing Ether, checking your balance, and transferring ownership.
 
 ## Help
 
